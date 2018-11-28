@@ -1,62 +1,62 @@
 [
   {
     "id": 1,
-    "image": "/assets/images/chefCurry.png",
+    "image": "http://sports.cbsimg.net/images/basketball/nba/players/170x170/1685204.png",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "/assets/images/bronBron.png",
+    "image": "https://sports.cbsimg.net/images/basketball/nba/players/170x170/400553.png",
     "clicked": false
   },
   {
     "id": 3,
-    "image": "/assets/images/durant.png",
+    "image": "http://sports.cbsimg.net/images/basketball/nba/players/170x170/1231866.png",
     "clicked": false
   },
   {
     "id": 4,
-    "image": "/assets/images/joJo.png",
+    "image": "http://sports.cbsimg.net/images/basketball/nba/players/170x170/2135528.png",
     "clicked": false
   },
   {
     "id": 5,
-    "image": "/assets/images/theBeard.png",
+    "image": "http://sports.cbsimg.net/images/basketball/nba/players/170x170/1685255.png",
     "clicked": false
   },
   {
     "id": 6,
-    "image": "/assets/images/uniBrow.png",
+    "image": "http://sports.cbsimg.net/images/basketball/nba/players/170x170/1992786.png",
     "clicked": false
   },
   {
     "id": 7,
-    "image": "/assets/images/uniCorn.png",
+    "image": "http://sports.cbsimg.net/images/basketball/nba/players/170x170/2108420.png",
     "clicked": false
   },
   {
     "id": 8,
-    "image": "/assets/images/westBrook.png",
+    "image": "http://sports.cbsimg.net/images/basketball/nba/players/170x170/1622555.png",
     "clicked": false
   },
   {
     "id": 9,
-    "image": "/assets/images/theRook.png",
+    "image": "http://sports.cbsimg.net/images/basketball/nba/players/170x170/2842760.png",
     "clicked": false
   },
   {
     "id": 10,
-    "image": "/assets/images/theClaw.png",
+    "image": "http://sports.cbsimg.net/images/basketball/nba/players/170x170/1715792.png",
     "clicked": false
   },
   {
     "id": 11,
-    "image": "/assets/images/greekFreak.png",
+    "image": "http://sports.cbsimg.net/images/basketball/nba/players/170x170/2067655.png",
     "clicked": false
   },
   {
     "id": 12,
-    "image": "/assets/images/freshPrince.png",
+    "image": "http://sports.cbsimg.net/images/basketball/nba/players/170x170/2202822.png",
     "clicked": false
   }
 ]

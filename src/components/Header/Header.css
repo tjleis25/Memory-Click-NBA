@@ -1,6 +1,6 @@
 .header {
-  background-image: url("/assets/images/nbaPhoto1.jpg");
-  background-repeat: repeat;
+  background-image: url("https://www.factornews.com/images/base/12/125883.jpg");
+  background-repeat: no-repeat;
   color: white;
   min-height: 650px;
   padding: 180px 20px;
@@ -19,4 +19,7 @@
   padding: 0;
   position: relative;
   top: 289px;
+  background: black;
+  margin-left: -25px;
+  margin-right: -25px;
 }
