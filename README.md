@@ -7,6 +7,6 @@
 * Good luck!
 
 ![screenshot 174](https://user-images.githubusercontent.com/38323356/49656642-d4687580-fa0b-11e8-8121-8612213be0ae.png)
-![screenshot 173](https://user-images.githubusercontent.com/38323356/49656646-d6cacf80-fa0b-11e8-8fed-17e0d8d3ae37.png)
+
 ![screenshot 175](https://user-images.githubusercontent.com/38323356/49656655-d92d2980-fa0b-11e8-8c54-5465058f3228.png)
 
